@@ -5,7 +5,7 @@ Gestion Parking est une application Java complète permettant la gestion d’un 
 Elle inclut :  
 - Gestion des abonnés et des visiteurs  
 - Gestion des places de parking et des véhicules  
-- Statistiques et rapports  
+- Statistiques 
 - Interface graphique Swing interactive  
 - Base de données MySQL pour la persistance des données
 
@@ -13,7 +13,6 @@ Elle inclut :
 - Ajouter, modifier et supprimer des abonnés
 - Réserver et libérer des places
 - Consulter les statistiques du parking
-- Export et import des données
 - Interface conviviale et responsive
 
 ## Technologies utilisées
